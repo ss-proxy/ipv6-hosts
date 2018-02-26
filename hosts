@@ -16,6 +16,19 @@
 127.0.0.1 localhost
 ::1 localhost ip6-localhost ip6-loopback
 
+## thanks for lennylxx  
+## add some china ipv6 website
+2001:da8:9000::130  hdtv.neu6.edu.cn
+2001:da8:9000::232  bt.neu6.edu.cn
+2001:da8:215:4078:250:56ff:fe97:654d  bt.byr.cn
+2001:da8:215:4074::153  tv.byr.cn
+2001:250:1004:4034:2e0:4cff:fe69:817  npupt.com
+2001:da8:d800:95::110 mirrors.ustc.edu.cn
+2001:da8:d800:95::80  tv6.ustc.edu.cn
+2402:f000:1:405:166:111:5:99  iptv.tsinghua.edu.cn
+2001:da8:205::100  pt.zhixing.bjtu.edu.cn
+2001:250:1002::7  pt.nwsuaf6.edu.cn
+
 ## Google.com
 2001:4860:4860::8888 google-public-dns-a.google.com
 2001:4860:4860::8844 google-public-dns-b.google.com
